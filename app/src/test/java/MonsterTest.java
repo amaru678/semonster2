@@ -3,7 +3,7 @@ package semonster2;
 import org.junit.Assert;
 import org.junit.Test;
 ​
-// Monster.javaの出力チェックする
+// Monster.javaの出力チェック
 public class MonsterTest {
   @Test
   public void testSummonMonster1() {
